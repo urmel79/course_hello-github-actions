@@ -5,9 +5,9 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# :wave: Hello GitHub Actions  :wave:
+# :wave: Hello GitHub Actions :wave:
 
-_Create a GitHub Action and use it in a workflow._
+_Create a GitHub Action and use it in a workflow._ 
 
 <!--
   <<< Author notes: Start of the course >>>
